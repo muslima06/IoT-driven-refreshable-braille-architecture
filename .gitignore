@@ -1,0 +1,45 @@
+# Android
+android_app/app/build/
+android_app/.gradle/
+android_app/.idea/
+android_app/local.properties
+android_app/app/build/**
+build/
+**/build/
+*.iml
+*.jks
+*.keystore
+
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PlatformIO / Firmware
+firmware/.pio/
+firmware/.vscode/.browse.c_cpp.db*
+firmware/.vscode/c_cpp_properties.json
+firmware/.vscode/launch.json
+firmware/.vscode/ipch
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS Files
+Thumbs.db
+db.db
+Desktop.ini
+.DS_Store

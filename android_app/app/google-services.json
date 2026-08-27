@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "992106716359",
+    "firebase_url": "https://ocr-smart-braille-book-default-rtdb.firebaseio.com/",
+    "project_id": "ocr-smart-braille-book",
+    "storage_bucket": "ocr-smart-braille-book.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992106716359:android:8849b76dcf55a9057932e2",
+        "android_client_info": {
+          "package_name": "com.braille.ocr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7-2KNYJ88yHvS1XQ06i4JIa_V1gHxSfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
